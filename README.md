@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
-<h3 align="center">An enthusiast in the field of analysis and data science</h3>
+<h3 align="center">An enthusiast in the field of data analysis and data science</h3>
 
 - 🔭 I’m currently working as Business analyst at [Doce Paladar](https://docepaladar.com.br)
 
