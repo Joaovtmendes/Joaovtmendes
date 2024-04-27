@@ -18,6 +18,11 @@
 - 📄 Know about my experiences: [www.linkedin.com/in/joao-vitor-mendes-silva](www.linkedin.com/in/joao-vitor-mendes-silva)
 
 
+<h2 align="left"> 📊 My portfolio</h2>
+
+- [Click to access the portfolio](https://github.com/Joaovtmendes/portfolio/tree/main)
+
+
 <h2 align="left">🖥 Tech Skills</h2>
 
 <p align="left">  
@@ -35,7 +40,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
     </p> 
-    
+
 
 <h2 align="left">🌐Connect with me:</h2>
 
