@@ -3,20 +3,12 @@
 
 <h2 align="left">🗨 About me:</h2>
 
-- 👨‍🎓I have a degree in business administration and am currently pursuing a master's degree in data engineering
-
-- 📊 I worked in a chain of confectioneries as a business analyst mainly with power bi, excel, sql and scrum
-  
-- 🔭 I recently worked on two projects as a data analyst for an international event called Genfest and for a company called CBS Dance Factory
-
-- 👨‍💻 In 2022, I began my transition to the technology area. I started as a business analyst and then assumed a position of trust, acting as a manager of one of the company's units, which allowed me to start using BI tools and developed this passion for data and problem solving.
-  
-- 💬 Ask me about **Data analytics, Business modeling, Power BI, Python, SQL, Excel, VBA**
-
-- 📫 How to reach me: **joaovtmendes@gmail.com**
-
+- 🎓 **Education:** Bachelor's degree in Business Administration and a Postgraduate specialization in Data Engineering.  
+- 💼 **Expertise:** Skilled in **Excel, VBA, Power BI, SQL, Python, Airflow, Docker, Apache Spark, Databricks**, data automation, artificial intelligence, and cloud platforms such as **AWS** and **Azure**.  
+- 💡 **Interests:** Passionate about **data analytics**, **business intelligence**, and **data automation**.  
+- 📜 **Certifications:** Microsoft PL-300 Power BI, IBM Data Analyst, Google Business Intelligence  
+- 📫 **Contact Me:** Feel free to reach out at **joaovtmendes@gmail.com**.  
 - 📄 Know about my experiences: [www.linkedin.com/in/joao-vitor-mendes-silva](www.linkedin.com/in/joao-vitor-mendes-silva)
-
 
 <h2 align="left"> 📊 My portfolio</h2>
 
